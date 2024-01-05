@@ -1,0 +1,2 @@
+from cookiecutter_project.models.model import MyNeuralNet
+from cookiecutter_project.predict_model import predict
